@@ -1,31 +1,3 @@
 {
     "names": [
-      "Adam", "Anna", "Alex", "Amanda",
-      "Ben", "Beth", "Brian", "Bella",
-      "Chris", "Claire", "Cameron", "Chelsea",
-      "David", "Danielle", "Derek", "Diana",
-      "Eric", "Emily", "Ethan", "Emma",
-      "Frank", "Fiona", "Fred", "Faith",
-      "George", "Grace", "Gary", "Gina",
-      "Henry", "Hannah", "Holly", "Harold",
-      "Ian", "Isabelle", "Ivy", "Isaac",
-      "John", "Jane", "Jack", "Jessica",
-      "Kevin", "Kate", "Kyle", "Karen",
-      "Luke", "Laura", "Lily", "Leo",
-      "Michael", "Mary", "Mark", "Megan",
-      "Nathan", "Nicole", "Noah", "Natalie",
-      "Oliver", "Olivia", "Oscar", "Owen",
-      "Peter", "Paige", "Patrick", "Penny",
-      "Quinn", "Quincy", "Queenie", "Quentin",
-      "Ryan", "Rachel", "Robert", "Rebecca",
-      "Sam", "Sarah", "Steven", "Sophia",
-      "Tom", "Tara", "Tyler", "Taylor",
-      "Uma", "Ulysses", "Uriel", "Ursula",
-      "Victor", "Vanessa", "Valerie", "Vince",
-      "William", "Wendy", "Walter", "Whitney",
-      "Xavier", "Xena", "Xander", "Xenia",
-      "Yasmine", "Yvonne", "Yasir", "Yolanda",
-      "Zachary", "Zoe", "Zara", "Zack"
-    ]
-  }
-  
+      "Adam", "Anna", "Alex"
